@@ -1,0 +1,179 @@
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe.config
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.pdb
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.Properties.Resources.resources
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csproj.GenerateResource.Cache
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.exe
+c:\users\ricardo kingsman\documents\visual studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Abrir.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Principal.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarMorto.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarFuncionario.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Menu.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._VerFuncionario.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._AlterarPasse.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Admin.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._PesquisaemMassa.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._RelatoriodosMortos.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Reciclagem.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._ReiniciarBD.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._SalvarBD.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._RelatorioFuncionario.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Bloquear.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Imprimir.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.cache
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.compiled
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe.config
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.exe
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MySql.Data.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MySql.Data.xml
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Abrir.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.Properties.Resources.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._AlterarPasse.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Bloquear.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarFuncionario.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarMorto.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Imprimir.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._PesquisaemMassa.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Menu.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Admin.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Principal.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Reciclagem.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._ReiniciarBD.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._RelatoriodosMortos.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._RelatorioFuncionario.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._SalvarBD.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._VerFuncionario.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csproj.GenerateResource.Cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.compiled
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe.config
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.exe
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MySql.Data.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\MySql.Data.xml
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Abrir.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.Properties.Resources.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._AlterarPasse.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Bloquear.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarFuncionario.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarMorto.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Imprimir.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._PesquisaemMassa.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Menu.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Admin.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Principal.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Reciclagem.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._ReiniciarBD.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._RelatoriodosMortos.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._RelatorioFuncionario.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._SalvarBD.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._VerFuncionario.resources
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csproj.GenerateResource.Cache
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.cache
+C:\Users\Ricardo Kingsman\Documents\Visual Studio 2015\Projects\CasaMortuaria\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.compiled
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe.config
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.exe
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.exe
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\CasaMortuaria.pdb
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\MySql.Data.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\MySql.Data.xml
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Abrir.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.Properties.Resources.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._AlterarPasse.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Bloquear.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarFuncionario.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._CadastrarMorto.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Menu.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Admin.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Principal.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Reciclagem.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._ReiniciarBD.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._SalvarBD.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._VerFuncionario.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csproj.GenerateResource.Cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\bin\Debug\mysqlbackup.dll
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.csproj.CasaMortuaria.exe.config
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Tabelas.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria._Informacao.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\CasaMortuaria.Form1.resources
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.cache
+C:\Users\Ricardo Kingsman\Pictures\CasaMortuaria\CasaMortuaria\obj\Debug\RdlCompile.compiled
